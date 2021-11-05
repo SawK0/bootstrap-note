@@ -19,8 +19,8 @@ See how different breakpoint work in html file
 
 The max-width of the container will change on t different screen sizes/viewports
 
-| Class  | Extra Small <576px  | Small >=576px  | Medium >=768px  | Large >=992px  | Extra large >= 1200px | XXL >= 14000px
---- | --- | --- | --- | ---
+| Class | Extra Small <576px | Small >=576px | Medium >=768px | Large >=992px | Extra large >= 1200px | XXL >= 14000px
+--- | --- | --- | --- | --- | --- | ---
 | .container-sm | 100%  | 540px  | 720px  | 960px  | 1140px  | 1320px
 | .container-md | 100%  | 100%  | 720px  | 960px  | 1140px  | 1320px
 | .container-lg | 100%  | 100%  | 100%  | 960px  | 1140px  | 1320px
